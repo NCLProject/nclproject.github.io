@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: R.Sun5@newcastle.ac.uk
-  phone: 01912086000
+  phone: 0191 2086 000
   address:
     street: Urban Science Building, 1 Science Square 
     city: Newcastle upon Tyne
