@@ -1,9 +1,9 @@
-name = "Research Group"
+name = "NCL Project"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
+licenselink = "https://github.com/NCLProject/nclproject.github.io/blob/main/LICENSE.md"
 description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
-homepage = "https://github.com/wowchemy/starter-hugo-research-group"
-demosite = "https://research-group.netlify.app/"
+homepage = "https://github.com/NCLProject/nclproject.github.io"
+demosite = "https://nclprojects.netlify.app/"
 tags = ["academic",
         "university",
         "research",
@@ -14,6 +14,7 @@ tags = ["academic",
         "clean",
         "company",
         "blog",
+        "projects",
         "events",
         "minimal",
         "light",
