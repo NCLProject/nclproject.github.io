@@ -6,4 +6,10 @@ image:
 ---
 
 ## Student Research Assistant
-test
+We are looking for 
+
+**The Role**
+
+**Who are we looking for?**
+The ideal candidate will have the following skills and experience:
+- 
