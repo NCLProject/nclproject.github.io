@@ -6,10 +6,35 @@ image:
 ---
 
 ## Student Research Assistant
-We are looking for 
 
-**The Role**
+Currently, we have two positions available.
 
-**Who are we looking for?**
-The ideal candidate will have the following skills and experience:
-- 
+**Who we are looking for:**
+- Registered student at Newcastle University
+
+**Your Role and Responsibilities:**
+- Virtual smart city simulator development.
+- Data generator development(for Smart Grid, Electric Vehicles).
+- Machine Learning based decision-making engine development.
+- DevOps development for Edge-Cloud computing (Potential).
+- Mobile lab development.
+
+**Professional skill requirements:**
+- One of programming languages: 
+  - Python, for:
+    - Smart city simulator
+    - Machine Learning
+    - Data generator
+  - Golang, for:
+    - DevOps
+- Mobile app development:
+  - IOS and Android, for
+    - Mobile lab
+
+**Experience requirements:**
+- Engineering experience or work experience.
+
+**Welfare:**
+- Allowance
+- Full-time software engineer job opportunity
+
