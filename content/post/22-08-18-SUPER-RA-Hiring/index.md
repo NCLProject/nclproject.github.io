@@ -38,3 +38,6 @@ Currently, we have two positions available.
 - Allowance
 - Full-time software engineer job opportunity
 
+**Contact Info:**
+If you interest in this position, please send a e-copy of your CV and Marking Report from school(if your have) 
+to email: ray.ruisun@qq.com
