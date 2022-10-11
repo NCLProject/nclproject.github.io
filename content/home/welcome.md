@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  NCL  
-  Projects (IoT Team)
+  IoT Team Projects
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-This site is to show the projects of IoT Team(NUSE Group) of **Newcastle University(UK)**.
+Projects of IoT Team, **Newcastle University(UK)**.
