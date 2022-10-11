@@ -1,5 +1,5 @@
 ---
-title: We are looking for Student Research Assistant.
+title: We are looking for Student Research Assistants.
 date: 2022-08-18
 image:
   focal_point: 'top'
@@ -12,14 +12,15 @@ Currently, we have two positions available.
 **Who we are looking for:**
 - Registered student at Newcastle University
 
-**Your Role and Responsibilities:**
+**Your Potential Role and Responsibilities:**
 - Virtual smart city simulator development.
 - Data generator development(for Smart Grid, Electric Vehicles).
 - Machine Learning based decision-making engine development.
-- DevOps development for Edge-Cloud computing (Potential).
+- DevOps development for Edge-Cloud computing.
 - Mobile lab development.
+- Unreal 4 based engine visualisation.
 
-**Professional skill requirements:**
+**Professional skill requirements(any of):**
 - One of programming languages: 
   - Python, for:
     - Smart city simulator
